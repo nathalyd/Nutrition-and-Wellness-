@@ -1,0 +1,331 @@
+
+    <h1> Nutrition</h1>
+<h1>  A  </h1>
+    <h2>ACAI</h2>
+    <b>What is it?</b> Widely promoted around the U.S as a superfood. Acai is a reddish-purple berry that come from the acai palm tree, Native to Central and South America. It is extremely rich in antioxidant. People use it for their skin, to lower colesterol, and to boost weight loss, although the research results have been mixed.
+    <b> Where can you get it?</b> The berries can be found in most supermarkets and, as supplement, in most pharmacies.
+    <h2>ALOE VERA</h2>
+    <b>What is it?</b> Typically in gel form, aloe comes from a cactuslike plant that grows in hot, dry climates. It is most commonly used as an ointment for burn, sun damage, and skin abraisions. But most recent studies suggest it can also help with weight loss if taken orally. Loaded with antioxidant, aloe is soothing to the digestive tract according to some research.
+    <b> Where can you get it?</b> Aloe vera can be found in pharmacies, convenience stores, and supermarkets.
+    <h2>ARGININE</h2>
+    <b>What is it?</b> This amino acid can help with blood pressure and other heart conditions. The body uses it to make proteins.
+    <b> Where can you get it?</b> Argnine can be found in meat, soy, whole grains, beans, and dairy products.
+    <h2>ASTRAGALUS</h2>
+    <b>What is it?</b>This herb or small shrub is actually in the legume family. While there isn't enough research on Astragalus, some studies suggest it seems to stimulate the immune system and may help control blood sugar in people with type 2 diabetes.
+    <b>Where can you get it?</b>In nost drug store, in pill form or dried leaves.
+
+
+<h1>B</h1>
+    <h2>BETA CAROTENE</h2>
+    <b>What is it?</b> This vitamin is part of the red, orange, and yellow pigments called carotenoids. The body converts beta-carotene into Vitamin A; it accounts for 505% of our A intake. It protects cells from damage and may protect against breast and ovarian cancers.
+    <b> Where can you get it?</b>Beta-carotene can be found in fruits, vegetables, and whole grains.
+    <h2>BIFIDOBACTERIUM</h2>
+    <b>What is it?</b>A healthy bacteria that acts as a probiotic-- it populates your gut and helps with digestion and digestive issues, including traveler's diarrhea and infant and child diarrhea, following antibiotic treatment. It is also used to manage skin conditions, like eczema, yeast infections, lactose intoerence, even Lyme disease and cancer.
+    <b> Where can you get it?</b>Known as lactic acid bacteria, it turns up in fermented foods like yogurt and cheese. You can also get it in pill form.
+    <h2>BILBERRY</h2>
+    <b>What is it?</b>Healer's use this plant's fruits and leaves to make medicine. Billberry contains anthocyanins that can improve circulation; it can also tame mouth and throat irritation, by reducing sswelling.
+    <b> Where can you get it?</b>It can be found in most drug stores.
+    <h2>BIOTIN</h2>
+    <b>What is it?</b> Also known as B7, biotin is an important coenzyme that breaks down fats and carbohydrates. It is used primarily for for mild depression, hair loss, Hepatitis, brittle nails, and neuropathy.
+    <b> Where can you get it?</b> Liver, eggs, nuts, cauliflower, and seeds.
+    <h2>BITTER ORANGE</h2>
+    <b>What is it?</b>Native to South Asia, bitter orange has antifungal abilities; taken orally, it affects the nervous system.
+    <b> Where can you get it?</b>Supplements and oils can be found in drug stores.
+    <h2>BLACK COHOSH</h2>
+    <b>What is it?</b>First introduced by Native Americans to European colonists, black cohosh contains many active substances, primarily in the roots, they act on the immune system and brain; it even has chemicals with estrogeniclike properties. The herb has been used to manage prementrual syndrome (PMS), menopausal symptoms and arthritis.
+    <b> Where can you get it?</b> Available in most drug stores.
+    <h2>BOVINE CARTILEDGE</h2>
+    <b>What is it?</b>Like it sounds, the cartilage comes from cows. Research indicates that it can reduce swealling and help wounds heal more quickly. People apply bovine cartilage topically to treat external hemorrhiods and rectal itchin; it can also ease skin conditions such as acne, psoriasis and rashes (dermatitis) caused by poison oak and poison ivy.
+    <b> Where can you get it?</b> You can find it in supplements and creams and most drugstores.
+    <h2>BUTTERBUR</h2>
+    <b>What is it?</b>A plant with large woolly leaves found in North America, Europe and Asia. Butterbur was originally used in the Middle Ages to combat the plague and fever. Today the roots of butterbur are used medicinally to treat migraines, urinary tract symptoms, upset stomach, and hay fever. Butterbur contains chemicals which can reduce swelling and alleviate spasms, though more research is needed to determine its effectiveness.
+    <b> Where can you get it?</b>Butterbur products that contain extracts from the root, rhizome (underground stem) or leaves of the plants are vailable at drugstores.
+
+<h1>C</h1>
+    <h2>CALCIUM</h2>
+    <b>What is it?</b> This essential mineral's primary job in the body is to help keep your bones strong. But a small amount in put to use supporting your muscles, helping bloob clots, and facilitating nerve communication.
+    <b> Where can you get it?</b>Dairy, but it can also be found in leafy greens, seafood, and legumes.
+    <h2>CATCLAW</h2>
+    <b>What is it?</b> A vine with clawlike thorns found in the Amazon rainforest and other tropical areas of Central and South Amerirca. The use of Cat's Claw dates back to the times of the Incas and is believed to contain the chemicals that stimulate the immune system. It is used today to combat viral infections, arthritis,  alzheimer's disease, cancer, and other conditions. There are no conclusive studies to determine effectiveness.
+    <b> Where can you get it?</b> The bark of the roots are used to make liquid extracts capsules, tablets and tea, available at drugstores.
+    <h2>CHAMOMILE</h2>
+    <b>What is it?</b>Used for centuries, chamomile tea is relaxing and can help with falling asleep. there are two types of chamomile: German and Roman (or English). German Chamomile has more research to support it; while both work for upset stomach, German chamomile can be used topically to reduce swelling and fight bacteria.
+    <b> Where can you get it?</b> You can buy the tea at supermarkets and dried flower, liquid flower extract, creams, and ointments at drugstores.
+    <h2>CHITOSAN</h2>
+     <b>What is it?</b>A fiber that is taken from the shells of crustaceans, such as lobster, shrimp, and crab, chitosan is promoted as a fat blocker and has been used to aid in weight loss. Chitosan also taken to combat anemia, high cholesterol and Crohn's disease. Though no reliable scientific evidence supports its effectiveness.
+    <b> Where can you get it?</b> As a supplement, available at drugstores.
+    <h2>CHOLINE</h2>    
+    <b>What is it?</b>Very similar to B vitamins, choline is an essential nutrient produced by the liver that is involved in chemical reactions throughout the body. It is mainly given to people with liver disease who can't produce enough; however, people have also used it to treat Asthma.
+    <b> Where can you get it?</b>Choline can be found in the liver of other animals, but you can also get it from beans, broccoli, spinach, wheat germ and eggs.
+    <h2>CHONDROITIN</h2>
+    <b>What is it?</b>Food in cartilage around joints in the body, chrondoitin is usually manufactured from shark and cow cartilage. It may help with urinary tract infections, but is most popular and studied use is for osteoarthritis Chondroitin seems to slow the breakdown of joint cartilage linked to arthritis.
+    <b> Where can you get it?</b>As a supplement at most drug stores.
+    <h2>CHROMIUM</h2>
+    <b>What is it?</b>This mineral helps keep blood-segar levels normak by enhancing the insulin function, making it valuable for people ith diabetes.
+    <b> Where can you get it?</b> Chromium is a chemical elements found in many food including oyster, pears, brzilian nuts, vegetables, and whole grains, it is stored in rocks, and soil and absored by the crops we eat and in the water we drink
+    <h2>COENZYME Q10</h2>
+    <b>What is it?</b>The vitaminlike substance plays a role in vital chemicalreactions through the body; people take it for disorders thats limit energy production (mitochondrial disorders) It may also protect aging.
+    <b> Where can you get it?</b>In organ meats and, in smaller amounts, in other meats and seafood.
+    <h2>CONJUGATED LINOLEIC ACIDE (CLA)</h2>
+    <b>What is it?</b>Scientist believe this healthy fat may reduce body fat and improve immune functions. It has been used for cancer, otheosclerosis, obesity, weight loss caused by chronic disease and for limiting food allergies.
+    <b> Where can you get it?</b>Dairy products and beef are the major dietary sourcesof CLA, but it can also be made into supplements.
+    <h2>COPPER</h2>
+    <b>What is it?</b>This essential mineral is found in nearly every tissue of the body; it assist in making red blood cells, maintaining nerve cells and supporting the immune system.
+    <b> Where can you get it?</b> Copper is found in many foods, like shellfich, organ meat, leafy greens, certain nuts, cocoa, and beans.
+    <h2>CYSTEINE</h2>
+    <b>What is it?</b>This amino acid is found in the body; it is a potent antioxidant. It is used for chest pain, bile duct blockage in infants, amyotrophic lateral sclerosis (ALS, Lou Gerrigs disease)
+    <b> Where can you get it?</b>Supplements are sold in most drung stores.
+
+<h1>D</h1>
+    <h2>DHEA</h2>
+        <b>What is it?</b> DHEA (dehydroepiandrosterone) is a hormone produced in the adrenal glands and assists in generating testosterone and estrogen. Related to growth hormone, DHEA is taken as an antiaging therapy; it may also help with osteoporosis.
+    <b> Where can you get it?</b>It needs to be synthesisez: Although it's in soy and wild yams, the body cannot convert this version to increase its DHEA leveles.
+
+<h1>E</h1>
+    <h2>EHCINACEA</h2>
+    <b>What is it?</b>Also known as cornflower, Echinacea is a flowering plant used mainly to boost the immune system. it can be taken as a supplement to fight the common cold and other infections.
+    <b> Where can you get it?</b>Echinacea is most commonly found in capsule or tablet form; however, the roots, leaves and flower can be used either fresh or dried in teas and juices, as well as in external uses.
+    <h2>EVENING PRIMEROSE OIL</h2>
+    <b>What is it?</b>Used by Native Americans for medical purposes, evening primrose oil is now used primarily to treat skin disorders, such as aczema, psoriasis and acne. It can also be used to treat a number of conditions including premenstrual symptoms and rheumatoid arthritis.
+    <b> Where can you get it?</b>Evening primrose oil is extracted from the seeds of the evening primerose plant and sold in capsule form.
+    
+<h1>F</h1>
+    <h2>FENUGREEK</h2>
+    <b>What is it?</b>The plant looks like a clover; the seeds can be helpful in managing blood sugar for diabetics. New moms have used this herb to stimuate milk production during breastfeeding. Although the research is priminary, fenugreek has shown promise as a dressing for wounds and for eczema.
+    <b>Where can you get it ?</b> Fenugreek leaves and seeds can be found in health food stores;it's also in capsules teas and creams.
+    <h2>FEVERFEW</h2>
+    <b>What is it?</b>Historically used to treat headaches, fevers, constipation, diarrhea, and dizziness, scientists have found that feverfew may be most effective for preventing maigraines. Feverfew leaves contain many different chemical, including one called parthenolide, which has been shown to decrease factors in the body that may cause migraine headaches.
+    <b>Where can you get it ?</b>Supplements can be found in most drugstores.
+    <h2>FISH OIL</h2>
+    <b>What is it?</b>This supplement is popular for good reasons; There's evidence it can protect against heart disease, smooth mood problems, and help kids with ADHD. A lot of benefits of fish oil seems to come from omega-3 fatty acids are essential nutrient that are important in preventing and managing heart disease.
+    <b>Where can you get it ?</b>You can get fish oil either by eating fish or by taking supplements, found in most drugstores.
+    <h2>FOLIC ACID</h2>
+    <b>What is it?</b>An essential vitamin that prevents birth defects, it also helps reduce that risk of developing age-related vision loss and can reduce high blood pressure.
+    <b>Where can you get it ?</b>Breakfast cereals, flour and other foods fortified with B9; its also plentyful in foods and veggies. Mushrooms; dark, leafy grees, organ meats are excellent source of folic acid.
+    
+
+
+<h1>G</h1>
+    <h2>GARLIC</h2>
+    <b>What is it?</b>This bulb is used to reduce cholesterol and blood pressure, boost immunity and prevent cancer and other diseases, The active ingredient seems to be a chemical called allicin.
+    <b>Where can you get it?</b>Sure your can take the supplement or you can use more garlic in your meals you make.
+    <h2>GINGER</h2>
+    <b>What is it?</b>This root is widely used as a flavoring or fragrance in foods, beverages and cosmetics. Ginger is considered an adaptogen and has been recommended for immunity, energy and other conditions. Now ginger is mainly used for nausea during pregnancy, from motion sickness and after chemotherapy and surgery.
+    <b>Where can you get it?</b>Ginger root can be found in the produce section of most grocery stores or purchased as powders or capsules.
+    <h2>GINKGO</h2>
+    <b>What is it?</b>K=Ginkgo is a large tree native to Asia, the leaves and seeds have been cultivated for centuries for medical purposes. Ginkgo is taken to increase blood flow to the brain and has been useful in treating alzheimer's chromic headaches, dizziness, and ringing in the ears.
+    <b>Where can you get it?</b>Tablets, capsules, extracts, and teas are widely available.
+    <h2>GINSENG</h2>
+    <b>What is it?</b>Asian (or Panax) ginseng and American ginseng are the most common type, asian ginseng is taken for a number of conditions. American ginseng contain substances that sensitize insulin and help to lower blood sugar.
+    <b>Where can you get it?</b> You can find supplements in most pharmacies.
+    <h2>GLUCOMANNAN</h2>
+    <b>What is it?</b>A dietary fiber derived from the konjac plant, glucamannan has been used to treat weight loss, diabetes, constipation, diabetes, high blood pressure and various stomach conditions. Studies have shown it can help ease constipation and slow the absorptionof sugar in the stomach to control sugar levels in diabetes.
+    <b>Where can you get it ?</b>In powders and capsules in most drugstores; and in shirataki noodles
+    <h2>GLUCOSAMINE</h2>
+    <b>What is it?</b> Your body produces this amino sugar, but more could offer benefits. Glucosamine sulfate is the type most studied. People take glusosamine sulfate orally to treat osteoarthritis.
+    <b>Where can you get it ?</b>Harvested from shells of shellfish or synthesized, you can find glucosamine sulfate supplements in most drugstores.
+    <h2>GLUTATHIONE</h2>
+    <b>What is it?</b>A substance produced naturally by the liver; your body uses it to build tissues and make chemicals and proteins, It may be most effective for reducing side effects of chemotherapy treatments for cancer.
+    <b>Where can you get it?</b>It's in sulfur-rich foods and garlic, onions and cruciferous vegetables, like broccoli and cabage, You can also find supplements at most drugstores.
+    <h2>GLYCINE</h2>
+    <b>What is it?</b>This amino acid can be produced in your body-- no help needed. Glycine is involved in the transmission of chemical signals in the brain, so their is interest in trying it with schizophrenia and improving memory. Some research thinks glycine may hae a role in cancer prevention, because it seems to interfere with blood supply needed by certain tumors. However, there has not been enough research done at this time to confirm these finding.
+    <b>Where can you get it?</b> Glysine: one more good reason to eat beans. The primary sources for glycine are protein-rich foods, including meats, fish, dairy, legumes.
+    <h2>GOLDENSEAL</h2>
+    <b>What is it?</b>Overharvesting and loss of habitat have deceased the avilability of wild goldenseal, but it's now grown commercially in the US, especially in Blue Ridge Mountains. People take it to treat colds and other respiratory tract infections, ulcers, and digestive upsets such as diarrhea and constipation (It's also gained notoriety for supposdly masking illegal drugs in urine tests; it doesn't work, though)
+    <b>Where can you get it?</b>Goldseal supplememts can be found in most drugstores.
+    <h2>GRAPE SEED EXTRACT</h2>
+    <b>What is it?</b>People have been using grapes and grape leaves and sap for health, dating back to ancient Greece, but grape-seed extract wasn't develeoped until the 1970's. Its used to help circulation, promote wound healing and reduce inflammation.
+    <b>Where can you get it?</b>Grapes contain a powerful antixidant called olgomeric. It can also be found in tablets, and liquids in drugstores.
+    <h2>GREEN COFFEE BEAN</h2>
+    <b>What is it?</b>Unroasted coffee beans contain higher amounts of the chemical chlorogenic acid, which seems to reduce blood pressure and strengthen your metabolism. People have also tried the eextract for Alzheimer's disease and to help control blood sugar.
+    <b>Where can you get it?</b>Available in most drugstores.
+    <h2>GREEN TEA</h2>
+    <b>What is it?</b>Extracted from the plant Camellia sinensis, green tea is used around the world to improve mental alertness and digestion, relieve headaches, promote weight loss and lower cholesterol. Research also shows that drinking green tea ay be linked to preventing Parkinson's disease. The FDA has approved it as a prescription treatment for genital warts. Studies have suggested that green tea is effective in trating acne.
+    <b>Where can you get it?</b>As a tea, but also sold in luquid extracts and capsules in most drug stores.
+    <h2>GUAR GUM</h2>
+    <b>What is it?</b> This fiber can treat both disrrhea and constipation. How? It regulates the moisture, both soaking up excess liquid and softening the stool. Studies also show it may also lower cholesterol and treat high blood pressure.
+    <b>Where can you get it?</b>In most drug stores sold as a supplement. (Drink lots of water when taking guar gum to avoid developing a blockage)
+<h1>H</h1>
+    <h2>HAWTHORN</h2>
+    <b>What is it?</b> This flowering shrub or tree is in the rose family. It's Native to Europe and grows in temperate regions throughout the world. Historically, its been used ofr heart, kidney, and digestive issues. Research suggests hawthorn may be effective for treating anxiety.
+    <b>Where can you get it?</b>In capsules, tablets or liquids, in most drugstores.
+    <h2>HOODIA</h2>
+    <b>What is it?</b>This flowering cactuslike plant is used by South African Sab (Bushmen) to ward off hunger during long hunts. It grown in Kalahari Desert in African, and a chemical in hoodia called PS7 does seem to suppress apetite-- though it's not clear if it works in humans/
+    <b>Where can you get it?</b>Hoodia is available as liquids, powder, tablet, capsules, at most drug stores.
+    <h2>HORSE CHESTNUT</h2>
+    <b>What is it?</b>The horse chestnut plant seeds and leaves contain a substance that thins the blood. Research shows seed extract can treat chronic venous insufficiency and may have cancer-fighting effects.
+    <b>Where can you get it ?</b> Found in most drugstores.
+<h1>I</h1>
+    <h2>INOSITOL</h2>
+    <b>What is it?</b>Research suggest this vitaminlike substance might help with conditions such as depression, obbsessive compulsive disorder, alzheimer's disease, polycystic ovary syndrome, and pain relief. It may also help with high blood pressure and cholesterol.
+    <b>Where can you get it?</b>Bells peppers, brown rice, and wheat germ are inositol sources. Oats, brand, almonds and walnuts contain high amounts of inositol, as do cantalopes, and all citrus fruit, other than lemon. It is also available as supplement form.
+    <h2>IODINE</h2>
+    <b>What is it?</b>As essential element, we need iodine to make thyroid hormones and control metabolism. Since our bodies do not produce iodine, we must get it from our diet.
+    <b>Where can you get it?</b>Salt that has been iodized is in your best source. You can also get iodine from seaweed, certain fish like cod and tuna, dairy products, like milk and yogurt and grains like bread and cereal.
+    <h2>IRON</h2>
+    <b>What is it?</b>As essential mineral, iron helps your red blood cells deliver oxygen to the body and get rid of carbon monoxide. Iron defifciency can lead to anemia. symptoms include fattige, dizziness, headache, and pale skin. Iron has also been used to treat attention deficit hyperactivity disorder(ADHD) and improving athletic performance. 
+    <b>Where can you get it?</b>There are many rich iron foods. Animal sources such as lean beef turkey, chicken, and oysters, provide more iron than plants, although beans, lentils, dark leafy vegetables and cashews are all good sources. Iron is also available in supplement ofrm in most drugstores. Getting your iron from foods like beans and meat may be your safest bet.
+<h1>J</h1>
+    <h2>JIAOGULAN</h2>
+    <b>What is it?</b>The Southeast Asian plant, sometimes reffered to as "Southern Ginseng" is known as an athletic performance booster and contains substances that may help reduce cholesterol levels. Studies have also shown that it may help support your immune system, soothe irriation and promote mental sharpness.
+    <b>Where can you get it?</b> It is available as a loose leaf tea and in supplement form.
+<h1>K</h1>
+    <h2>KAVA</h2>
+    <b>What is it?</b> The beverage or extract made from a plant native to the Pacific Islands, Kava relaxes the brain and other parts of the central nervous system and has been used a way to lower anxiety.
+    <b>Where can you get it ?</b> The root and stem are used to make drink; they're also made into extracts; capsules; and tablets.
+<h1>L</h1>
+    <h2>LACTOBACILLUS</h2>
+    <b>What is it?</b>This probiotic bacteria is one of the more carefully studied probiotics, and it works for antibiotic- related diarrhea, infectuos diarrhea, irritable bowel syndrome, vaginal infections and eczema. Look for L. acidophilus, L. helveticus, L. plantarum, L. rhamnosus and L. reuteri.
+    <b>Where can you get it?</b> It is in some fermented foods, like yogurt, and in dietary supplements.
+    <h2>LAVENDER</h2>
+    <b>What is it?</b>This herb and its oil have long been used to treat anxiety, depression and insomnia, as well as, relieve gastrointestinal problem. Research has shown lavender oil to be an effective tool in treating hair loss when rubbed on the scalp with combinations of other oils including cedarwood, thyme and rosemary. Theraputic-grade lavender can be used to clean cuts and treat bruises and skin irritations.
+    <b>Where can you get it?</b>The flower and the oil of lavender are used in supplements.
+    <h2>LICORICE ROOT</h2>
+    <b>What is it?</b>Centuries ago, this herb was used in Greece, China, and Egypt for stomach inflammation and upper respiratory problems-- and people still use it for those complaints, as well as, for menopausal symptoms and bacterial infections and viral infection.
+    <b>Where can you get it?</b>Licorice is harvested from the plants' roots and underground stems. Licorice supplements are available as capsules, tablets and liquid extracts.
+    <h2>LYSINE</h2>
+    <b>What is it?</b>Lysine is a non essential amino acid. It is primarily used to prevent and treat cold sores caused by herpes, but researchers are looking  at it as a possible stress reliever and for help controlling blood sugar.
+    <b>Where can you get it?</b>Tablets and creams are sold at most drugstores.
+<h1>M</h1>
+    <h2>MAGNESIUM</h2>
+     <b>What is it?</b>This mineral is essential for bones. Magnesium is required for proper functioning of nerves, muscles and many other parts of the body. In the stomach, magnesium helps neutralize acid and move stool through the intestine. It can also be used for irregular heartbeat.
+    <b>Where can you get it from?</b>Spinach, tofu, almonds, black beans, avocados, and dark chocolate are just some of the food sources.
+    <h2>MANGANESE</h2>
+     <b>What is it?</b>An essential nutrient, manganese helps process cholesterol, carbohydrates, and protein-- it's involved in hundreds of key body processes. Researchers also believe it may play a key role in bone formation, which is often overlooked. However, there is also minimal evidence that taking higher doses of this nutrient is necessary; you only need to make sure your are not deficient.
+    <b>Where can you get it?</b>Manganese is found in several foods, including nuts, legumes, seeds, tea, whole grains and leafy green vegetables. It can also be made into supplements
+    <h2>MALATONIN</h2>
+     <b>What is it?</b>Found naturally in the body, melatonin's main job is the regulate your sleep-wake cycle. For people who have trouble sleeping or who have insomnia, melatonin supplements may help.
+    <b>Where can you get it?</b>It is sold as a supplement or drops that can be placed under the tongue.
+    <h2><MILK THISTLE/h2>
+     <b>What is it?</b>The use of the milk thistle plant in a medicinal way dates back 2,000 years. It has been used to treat liver disorders, such as alcoholic hepatitis and cirrhosis; gallbladder problems, seasonal allergies and heartburn. Studies also show it that is may also be effective in boosting the immune system. Studies show that silymarin, a substance in milk thistle, may have anti cancerous effect, both preventing the division of cancer cells and promoting cancer-cell death.
+    <b>Where can you get it?</b>Available as capsules and extracts.
+<h1>N</h1>
+    <h2>NIACIN</h2>
+     <b>What is it?</b>The vitamin guides fats and sugars to cells, helping keep the body healthy. It can help lower cholesterol, and it may be effective in reduing hardening of the arteries. People also take it to treat Alzheimer's disease and erectile dysfunction, but evidence doesn't warrant these uses.
+    <b>Where can you get it?</b>Vitamin B3 is found in foods such as yeast, meat, fish, milk, eggs, green vegetables and cereal grains. When taken as a supplement, niacin is often found in combinations with other B vitamins
+<h1>O</h1>
+    <h2>ORNITHINE</h2>
+     <b>What is it?</b>This amino acid is made naturally in the body when excess nitrogen is disoposed of in the urine. People have used it for enhancing athletic performance and for healing wounds in burn patients.
+    <b>Where can you get it?</b>It's in meat, dairy, eggs, fish, and soybeans, and available as supplement form.
+<h1>P</h1>
+    <h2>PANROTHENIC ACID (VITAMIN B5)</h2>
+     <b>What is it?</b>People take it to treat conditions such as acne, alcoholism, allergies, baldness, asthma and ADHD, but there is not much sccientific evidence to support these uses. B5 is an essential vitamin, helping the body process carbs, proteins and fats.
+    <b>Where can you get it?</b>It's found in plants and animals, including meats, vegetables, cereal grains, legumes. milk and eggs. It is also available as a supplement.
+    <h2>PEPPERMINT</h2>
+     <b>What is it?</b>This plant is used as a dietary supplement for irratable bowel syndrome (IBS), colds, headaches and many other conditions. Peppermint oil is applied to the skin for headaches, muscle aches, itching and other problems. So far, research has only veryfied its effectivness for IBS.
+    <b>Where can you get it?</b>The leaf is available in teas, in capsules and as liquid extract The oil can be found in liquid solutions and capsules- including enteric-coated capsules.
+    <h2>PHENYLALANINE</h2>
+     <b>What is it?</b>An amino acid, it comes in the D- phenylalanine (made in a laboratory), L. phenylalanine (the natural form found in proteins) and is synthesized in laboratory mix called DL-phenylalanine. D. phenylalanine may be useful in treating chronic pain and parkinson's disease. L. phenylalanine has been shown to be useful in the treatment of vitiligo-- a condition in which pigment is lost from the skin, resulting in white patches.
+    <b>Where can you get it?</b>L. phenylalanine can be found in meat, fish, eggs, cheese and milk. D. phenylalanine is in supplement form.
+    <h2>PHOSPHORUS</h2>
+     <b>What is it?</b>The second most plentiful mineral found in the body (behind calcium), phosphorus helps build strong bones and teeth, filter waste and repair cells. As a supplement, phosphate salts have been used as a laxative, drawing more fluids into the intestines and stimulating the gut. Phosphate salts have also been used to manage conditions such as kidney stones, diabetes and sensitive teeth.
+    <b>Where can you get it?</b>Dairy, fish, beans and in most drugstores as a pill.
+    <h2><POMEGRANATE/h2>
+     <b>What is it?</b>Research have long studied pomegranate. A recent study of about 100 dialysis patients suggested pomegranate juice may help ward off infections. In the study, the patients who were given pomegranate juice three times a week for a year had fewer hospitalizations for infections and fewer signs of inflammation
+    <b>Where can you get it?</b>In addition to the fruit you can get pomegranate in pill capsules, extracts, and teas, powders and juices.
+    <h2>POTASSIUM</h2>
+     <b>What is it?</b>This essential mineral helps the brain communicate with the rest of the body by facilitating nerve transmission. It also helps maintain fluid balance and may help lower blood pressure and reduce the risk of stroke.
+    <b>Where can you get it?</b>Food sources of potassium include fruits (especially dried fruits), cereals, beans, milk and vegetables. It can also be made into supplements.
+    <h2>PYRIDOXINE (VITAMIN B6)</h2>
+     <b>What is it?</b>Vitamin B6 is an essential vitamin that helps that body make nuerotransmitters that carry information from one nerve cell to the next.. It also plays a vital role in the growth and developemt of the brain, nerves, skin, and many other parts of the body. 
+    <b>Where can you get it?</b> B6 can be found in certain foods such as cereals, beans vegetables, liver, meats and eggs.
+    <h2>PYRUVATE</h2>
+     <b>What is it?</b>The body produces the antioxidant pyruvate when it breaks down sugar (glucose). Pyruvate acid seems to help the other layer of the skin cells to slough off, which accounts for its use in reversing aging due to sun exposure.
+    <b>Where can you get it?</b> There are small amounts in red apples, cheese, dark beer and red wine.
+<h1>Q</h1>
+    <h2>QUERCETIN</h2>
+     <b>What is it?</b>Quecetin is a plant pigment that is found in red wine, onions, and green tes, apples, berries and some herbs. Scientist believe it has antioxidants effects that can help reduce prostate inflammation; it also shows pormise for treating atherosclerosis, high cholesterol, heart disease and circulation issues.
+    <b>Where can you get it?</b>Quercetin, another antioxidant found in red wine.
+<h1>R</h1>
+    <h2>RASPBERRY KETONE</h2>
+     <b>What is it?</b>A chemical that comes from red raspberries. Raspberry ketone is used to boost metabolism and increase weight loss. It may assist hormones that reduce appetite as well, though more evidence is needed for this use.
+    <b>Where can you get it?</b>It is in raspberries of coarse but also in peaches, kiwi, apples and grapes and other berries.
+    <h2>RED CLOVER</h2>
+     <b>What is it?</b>The plant originates in Europe and Asia, though now its grown all over the world. Red clover delivers isoflavones to phytoestrogen, an estrogenlike substance. When researches have tested it in women red clover seemed to help raise good cholesterol, ease symptoms of menopause and boost bone growth, although more research need to be done to verify the results.
+    <b>Where can you get it ?</b>It's made into teas, tinctures, pills, powders, oils and extracts that are sold at many drugstores.
+    <h2>RIBOFLAVIN (B2)</h2>
+     <b>What is it?</b>Your body needs this water-soluable B vitamin to keep your skin, digestive tract and red blood cells healthy. You also depend upon it to process other B vitamins, and , together, they're critical for metabolizing the energy your body runs on.
+    <b>Where can you get it?</b>Milk, meat, eggs, nuts, enriched flour and green vegetables. Also available in pill form.
+<h1>S</h1>
+    <h2>SACCHARMOYCES BOULARDII</h2>
+    <b>What is it?</b> This probiotic is actually a yeast. Like other probiotics, it's known for helping protect against gut issues; however, it can also ease acne, yeast infections, and potentially Lyme disease.
+    <b>Where can you get it?</b>It can be made into supplements sold at most drug stores.
+    <h2>SAGE</h2>
+    <b>What is it?</>The plant is used as a dietary supplement for digestive problems, sore mouth or throat; memory loss; and depression. It my actually help boost memory and speed learning.
+    <b>Where can you get it?</b>Sage leaves or their extracts are available as liquids, throat sprays, tablets, lozenges, and capsules.
+    <h2>SAMe</h2>
+    <b>What is it?</b>The body forms this molecule as building blocks for substances that help ease pain, relieve depression, and ward off liver disease. People who don't make enough SAMe naturally may be helped by taking SAMe as a supplement.
+    <b>Where can you get it?</b>A synthetic version of SAMe is available as a supplement.
+    <h2>SAW PALMETTO</h2>
+    <b>What is it?</b>The fruit of this palmlike plant is used to make an extract that is widely used to treat symptoms of enlarged prostate (benign prostatic hypertrophy, or BPH). People have also taken in to increase libido and incerase fertility. It may have anti-inflammatory properties as well.
+    <b>Where can you get it?</b>The berries are sold  whole or ground up and placed in capsules or tablets; extracts of the fruit are used in tinctures and teas.
+    <h2>SELENIUM</h2>
+    <b>What is it?</b>An essential mineral selenium seems to increase the action of antioxidants. People have tried it for treating asthma, eczema and diabetes, but so far the only proven use is for modestly reducing cholesterol levels.
+    <b>Where can you get it?</b> Crab, liver, fish, poultry, and wheat are food sources.
+    <h2>SOY</h2>
+    <b>What is it?</b>A staple in Asian diets for thousands of years. It's now used as a filler and protein in a wide variety of foods around the world. Soy supplements and foods can be used for menopausal symptoms and bone health, as well as, improving memory, blood pressure and cholesterol levels. Soy contains isoflavones, which are changed in the body to phytoestrogens similar to estrogens.
+    <b>Where can you get it?</b>In foods lie edamame, tofu, miso, soy nuts, and tempeh.
+    <h2>SULFUR</h2>
+    <b>What is it?</b>Sulfur is the number 3 mineral found in the body (right behind calcium calcium and phosphorus) It can battle bacteria that causes acne, and helps treat skin conditions like seborrheic dermatiitis.
+    <b>Where can you get it?</b> In Garlic, onions, broccoli, cabbage and other sulfuric foods.
+<h1>T</h1>
+    <h2>TAURINE</h2>
+    <b>What is it?</b>Taurine is an amino acid. Taurine may be able to ward off stress, decrease blood pressure.
+    <b>Where can you get it?</b>The best food sources are meat and fish.
+    <h2>THIAMINE(B1)</h2>
+    <b>What is it?</b> Needed it to burn carbs, and rectify metabolic and brain disorders. B1 may help protect against diabetes, cataracts, kidney disease, and painful menstrution.
+    <b>Where can you get it?</b>Available through yeast, nuts, meat, cereal grains, beans.
+    <h2>TRYPTOPHAN</h2>
+    <b>What is it?</b>This essential amino acid is converted to seratonin, a hormone related to enhanced mood.
+    <b>Where can you get it?</b>Its naturally found in plants and meats.
+    <h2>TUMERIC</h2>
+    <b>What is it?</b>Curcuming is the active ingredient and fights inflammation. As a supplement, it fights inflammation, arthritis, skin, stomach, liver and gallbladder problems.
+    <b>Where can you get it?</b> As a supplement, tablets, capsules, teas, paste and extracts.
+    <h2>TYROSINE</h2>
+    <b>What is it?</b>Another essential amino acid. The body uses this to make neurotransmitter. 
+    <b>Where can you get it?</b>Can be found in meats, poultry, dairy, nuts, and seeds.
+<h1>U</h1>
+    <h2>UMCKALOABO</h2>
+    <b>What is it?</b>A south African plant also called called geranium used to treat bronchitis, sinus infections, tonsillitis, sore throat, and the common cold.
+    <b>Where can you get it?</b>This plant can be made into supplements.
+<h1>V</h1>
+    <h2>VALERIAN</h2>
+    <b>What is it?</b>An herb used for neurological conditions such as; insomnia, anxiety, depression, menopause symptoms like hot flashes.
+    <b>Where can you get it?</b>Founds as teas, tablets, capsules and liquid extracts.
+    <h2>VITAMIN A</h2>
+    <b>What is it?</b>This essential vitamin maintains skin, eyes, and immune systems healthy.
+    <b>Where can you get it?</b>Found in fruits, vegetables, eggs, whole milk, fortified margarine, oily fish and meat.
+    <h2>VITAMIN B12</h2>
+    <b>What is it?</b>An essential vitamin--your body requires it to keep your nerves, blood cells, brain, and other crucial organs to work properly. It may help prevent against age related muscular-degeneration and nerve damage from shingles.
+    <b>Where can you get it?</b> In doos like meat, fish, and dairy.
+    <h2>VITAMIN C</h2>
+    <b>What is it?</b>Perhaps the most common nutrient, vitamin C helps keep your immune system strong. Its often used to fight the comon cold.
+    <b>Where can you get it?</b>Commonly found in citrus fruit. Citris is also packed with fiber and good for the heart.
+    <h2>VITAMIN D</h2>
+    <b>What is it?</b>Exposure to the sun stimulates the production of vitamin D, essential for regulation of calcium and phosphorus.
+    <b>Where can you get it?</b>Mushrooms and salmon, cod and sunlight are all good sources.
+    <h2>VITAMIN E</h2>
+    <b>What is it?</b>A powerful antioxidant and crucial vitamin works with vitamin C to keep tissues and cells healthy and safe from free radicals.
+    <b>Where can you get it?</b>Found in vegetable oil, Viatmin E is a primary and fat soluable antioxidant. Also found in eggs, meats, and breakfast cereals.
+    <h2>VITAMIN K</h2>
+    <b>What is it?</b>Another essential vitamin helps blood from clotting, healing injuries, and bones to grow and mend. Calcium relies on it to strengthen your skeleton.
+    <b>Where can you get it?</b>Naturally found in green leafy vegetables, broccoli, and brussel spouts.
+<h1>W</h1>
+    <h2>WHEY PROTEIN</h2>
+    <b>What is it?</b>Research suggest it may help with weight loss, high cholesterol, asthma,  protein allergy, and boost the overal nutrient value of your diet.
+    <b>Where can you get it?</b> It is the watery stuff on top of your yogurt, but also found in pills and powders.
+<h1>X</h1>
+    <h2>XANTHAN GUM</h2>
+    <b>What is it?</b>Made from fermented sugar and bacteria, xanthan gum,  is used as a laxative. It stimulates the digestive tract, and potentially help people loose weight.
+    <b>Where can you get it?</b>Sold as a supplement.
+<h1>Y</h1>
+    <h2>YERBA MATE</h2>
+    <b>What is it?</b>This plant contains caffein and other chemicals used to stimulate the brain, heart, and muscles lining blood vessels. Used to counteract mental and physical fatigue syndrome. 
+    <b>Where can you get it?</b>Found as a tea or supplement.
+<h1>Z</h1>
+    <h2>ZINC</h2>  
+    <b>What is it?</b>This mineral helps support immunity and metabolism. Used to help fight colds.
+    <b>Where can you get it?</b>Food sources include red meat, chicken, an fortified cereals. -->
+
+
+    <!-- </POMEGRANATE> -->
