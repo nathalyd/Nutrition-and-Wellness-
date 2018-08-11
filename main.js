@@ -12,11 +12,17 @@ var getParameterByName = function(name, url) {
   return decodeURIComponent(results[2].replace(/\+/g, " "));
 }
 var listView = function (id, vitamin, picture, about, source) {
-return `<div class="col-sm-3">
+return `<div class="col-sm-3 cardImageText">
   <div class="card mb-4 box-shadow">
-    <a href="?id=${id}"><img class="card-img-top" src="${picture}"></a>
+      <h4 align="center"><i>${vitamin}</i></h4>
+      <a href="?id=${id}"><img height="250" class="card-img-top" src="${picture}"></a>
     <div class="card-body">
-      <h4><a href="?id=${id}">${vitamin}</a></h4>
+     <div class="d-flex justify-content-between align-items-center">
+      <div class="btn-group">
+        <a href="?id=${id}"<button type="button" class="btn btn-sm btn-outline-secondary"> More About Vitamin</button> </a>
+      </div>
+   
+     </div>
       <div class="d-flex justify-content-between align-items-center">
         <small class="text-muted"></small>
       </div>
@@ -99,4 +105,21 @@ if (id) {
   getDataForId(id);
 } else {
   getDataForList();
+}
+
+function searchFunction(){
+  var input, filter, cardimagetext, i, x;
+  input =document.getElementById('myinput');
+  filter =input.value.toUpperCase();
+  cardimagetext = document.getElementsByClassName('cardImageText');
+
+  for(x=0;x<cardimagetext.length;x++){
+    i=cardimagetext[x].getElementsByTagName('i')[0];
+    if(i.innerHTML.toUpperCase().indexOf(filter)>-1){
+      cardimagetext[x].style.display='';
+    }
+  else{
+    cardimagetext[x].style.display='none';
+  }
+  }
 }
